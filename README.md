@@ -23,8 +23,10 @@ Since COVID, I’ve been fully focused on mastering JavaScript and Java — appl
 
 ### 🌱 Currently Learning
 
-- React  
-- Python
+- K8's  
+- Docker
+- Quarkus
+- Streams and Maps
 
 ---
 
