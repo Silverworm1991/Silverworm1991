@@ -1,14 +1,21 @@
 <h3 align="center">About Me</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=silverworm1991&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=silverworm1991&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views counter"
+  />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=silverworm1991" alt="GitHub Trophy" />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=silverworm1991"
+      alt="GitHub profile trophies"
+    />
   </a>
 </p>
+
 
 ---
 
